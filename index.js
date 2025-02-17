@@ -69,8 +69,23 @@ const {
   console.log('Plugins installed successful ✅')
   console.log('Hans Byte Md connected to whatsapp ✅')
   
-  let up =`Hans Byte MD BOT IS SUCCESSFULLY CONNECTED ✅ 😍\n\n*PREFIX: ${prefix}*\n\n♻️ ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ :\nhttps://whatsapp.com/channel/0029VaZDIdxDTkKB4JSWUk1O\n\n♻️ ᴡʜᴀᴛꜱᴀᴘᴘ ɢʀᴏᴜᴘ ʟɪɴᴋ :\nhttps://chat.whatsapp.com/K0GPSSfr16j8VsIAU8uHYM\n\n\n*HANS BYTE MD*\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ Hans Tech Team`;
-  conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.imghippo.com/files/ra7818HI.webp` }, caption: up })
+  let up =`╔═════════════════╗
+  ║      𝐇𝐀𝐍𝐒 𝐁𝐘𝐓𝐄 𝐌𝐃 𝐁𝐎𝐓           
+  ║  SUCCESSFULLY CONNECTED ✅ 😍        
+  ╠═════════════════╣
+  ║      • PREFIX: .            
+  ╟─────────────────╢
+  ║ ♻ 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐋𝐈𝐍𝐊         
+  ║ https://whatsapp.com/channel/0029VaZDIdxDTkKB4JSWUk1O              
+  ╟─────────────────╢
+  ║ ♻ 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐆𝐑𝐎𝐔𝐏 𝐋𝐈𝐍𝐊          
+  ║ https://chat.whatsapp.com/K0GPSSfr16j8VsIAU8uHYM                 
+  ╠═════════════════╣
+  ║      𝐇𝐀𝐍𝐒 𝐁𝐘𝐓𝐄 𝐌𝐃               
+  ║ > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ Hans Tech Team        
+  ╚═════════════════╝
+`;
+  conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/FLSgNhW9/Free.png` }, caption: up })
   
   }
   })

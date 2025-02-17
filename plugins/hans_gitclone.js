@@ -6,7 +6,7 @@ const archiver = require('archiver');
 
 cmd({
     pattern: "gitclone",
-    alias: ["clone", "repo"],
+    alias: ["clone"],
     react: "📂",
     desc: "🔗 Clone a GitHub repo & send as ZIP",
     category: "💻 Developer",
