@@ -144,3 +144,5 @@ A fun WhatsApp bot.
 </br>
 
 <strong> There is no guide to help you deploy this bot now because it is still under development 😉 </strong>
+
+[SESSION ID](https://hans-pair-web.onrender.com)
