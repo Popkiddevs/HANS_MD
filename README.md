@@ -1,9 +1,9 @@
-### Hans-MD WhatsApp bot
+### HANS BYTE MD WhatsApp bot
 
 A fun WhatsApp bot.
 
 <h4 align="center"> ✔️ No Whatsapp Ban! ✔️</h4>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&pause=1000&width=435&lines=HANS+BYTE+BOT+BY+HANS+TEH+" alt="Typing SVG" /></a>.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&pause=1000&width=435&lines=HANS+BYTE+BOT+BY+HANS+TECH+" alt="Typing SVG" /></a>.
 
 <p align="center">
   <a href="https://i.ibb.co/FLSgNhW9/Free.png">
